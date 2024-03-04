@@ -1,26 +1,45 @@
-### Hi there 👋
 
-<!-- GitHub Stats -- >
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+</p>
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+# Hi there! 👋 I'm Atharva Jagtap
 
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
+Innovative Problem Solver | Lifelong Learner
 
-<!--
-**atharvaj1234/atharvaj1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a knack for creating innovative solutions and building impactful applications. With a solid foundation in a wide range of programming languages and a commitment to continuous learning, I'm always eager to tackle new challenges and push the boundaries of what's possible in technology.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Proficient in: Python, Java, C/C++, HTML, CSS, JavaScript, PHP, PL/SQL
+- 🎓 Constantly learning and expanding my skillset
+- 🌟 Strong problem-solving abilities and critical-thinking skills
+- 🚀 Dedicated to making meaningful contributions to the tech community
+
+## Courses & Certifications
+
+- C++ Course, Scaler
+- Java Programming, Great Learning
+- OOPs in Java, Great Learning
+- Java Algorithms, Great Learning
+- Frontend Development - HTML/CSS, Great Learning
+- MySQL Basics & Advanced SQL, Great Learning
+- Introduction to Javascript, Great Learning
+
+## Skills
+
+- **Languages:** Python, Java, C/C++, HTML/CSS
+- **Databases:** MySQL
+- **Other:** Project Planning, Problem Solving, Critical Thinking
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+## Get in Touch
+
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+
+Let's build something awesome together! 🚀

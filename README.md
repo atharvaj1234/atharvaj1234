@@ -31,5 +31,5 @@
     <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaj1234&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </p>
 <h2 align="center">Get in Touch</h2>
-<p align="center">I'm always open to collaboration and new opportunities. Feel free to reach out to me via <a href="mailto:atharvaj321@gmail.com">email</a> or connect with me on <a href="www.linkedin.com/in/atharva-jagtap-b4845b1a8">LinkedIn</a>.</p>
+<p align="center">I'm always open to collaboration and new opportunities. Feel free to reach out to me via <a href="mailto:atharvaj321@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/atharva-jagtap-b4845b1a8">LinkedIn</a>.</p>
 <p align="center">Let's build something awesome together! 🚀</p>

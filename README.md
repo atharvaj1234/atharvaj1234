@@ -6,7 +6,7 @@
 <p align="center">Welcome to my GitHub profile! I'm a passionate software developer with a knack for creating innovative solutions and building impactful applications. With a solid foundation in a wide range of programming languages and a commitment to continuous learning, I'm always eager to tackle new challenges and push the boundaries of what's possible in technology.</p>
 <h2 align="center">About Me</h2>
 <ul align="center">
-  💻 Proficient in: Python, Java, C/C++, HTML, CSS, JavaScript, PHP, PL/SQL<br>
+  💻 Proficient in: Python, Java, C/C++, HTML, CSS, JavaScript, PHP, MYSQL<br>
   🎓 Constantly learning and expanding my skillset<br>
   🌟 Strong problem-solving abilities and critical thinking skills<br>
   🚀 Dedicated to making meaningful contributions to the tech community<br>

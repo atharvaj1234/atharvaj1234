@@ -16,10 +16,10 @@
   C++ Course<br>
   Java Programming<br>
   OOPs in Java<br>
-  Java Algorithms <br>
   Frontend Development - HTML/CSS<br>
   MySQL Basics & Advanced SQL<br>
   Introduction to Javascript<br>
+  Php Basics<br>
 </ul>
 <h2 align="center">Skills</h2>
 <ul align="center">

@@ -13,13 +13,13 @@
 </ul>
 <h2 align="center">Courses & Certifications</h2>
 <ul align="center">
-  C++ Course, Scaler<br>
-  Java Programming, Great Learning<br>
-  OOPs in Java, Great Learning<br>
-  Java Algorithms, Great Learning<br>
-  Frontend Development - HTML/CSS, Great Learning<br>
-  MySQL Basics & Advanced SQL, Great Learning<br>
-  Introduction to Javascript, Great Learning<br>
+  C++ Course<br>
+  Java Programming<br>
+  OOPs in Java<br>
+  Java Algorithms <br>
+  Frontend Development - HTML/CSS<br>
+  MySQL Basics & Advanced SQL<br>
+  Introduction to Javascript<br>
 </ul>
 <h2 align="center">Skills</h2>
 <ul align="center">

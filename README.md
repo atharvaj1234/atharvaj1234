@@ -83,8 +83,8 @@
 </p>
 <br>
 <p align="center">
-  <img align="center" style="margin:1rem" src="https://kasroudra-stats-card.onrender.com/user?user=atharvaj1234&theme=dark"/>
-    <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaj1234&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=151515" />
+  <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api?username=atharvaj1234&theme=darcula&show_icons=true&hide_border=false&count_private=true"><br><br>
+    <img align="center" style="margin:1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaj1234&theme=darcula&show_icons=true&hide_border=false&layout=compact" />
 </p>
 <h2 align="center">Get in Touch</h2>
 <p align="center">I'm always open to collaboration and new opportunities. Feel free to reach out to me via <a href="mailto:atharvaj321@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/atharva-jagtap-b4845b1a8">LinkedIn</a>.</p>

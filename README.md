@@ -97,7 +97,7 @@ const atharva = {
 [![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Android](https://skillicons.dev/icons?i=android)](https://developer.android.com/)
+[![Android](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/)
 
 </div>
 

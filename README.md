@@ -59,7 +59,72 @@ const atharva = {
 
 ## Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td valign="top" width="34%">
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" /><br/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,dart" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass" /><br/>
+  <img src="https://skillicons.dev/icons?i=materialui,svelte" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=firebase,postgresql" />
+</p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,gcp" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,notion" /><br/>
+  <img src="https://skillicons.dev/icons?i=npm,gcp,androidstudio,vercel" />
+</p>
+
+  </td>
+
+  <td valign="top" width="33%">
+
+### 🎬 Creative Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ae,pr,blender" />
+</p>
+
+### 💻 Operating Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,apple,linux" />
+</p>
+
+### 🚀 Extras
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,powershell" />
+</p>
+
+   </td>
+  </tr>
+</table>
+
+<!-- <div align="center">
 
 **Languages**
 
@@ -99,7 +164,7 @@ const atharva = {
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Android](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/)
 
-</div>
+</div> -->
 
 ---
 
